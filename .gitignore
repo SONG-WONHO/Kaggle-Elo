@@ -117,4 +117,7 @@ dmypy.json
 
 .ipynb_checkpoints/
 
+
 data/
+data_feature_engineering/
+data_modeling/
